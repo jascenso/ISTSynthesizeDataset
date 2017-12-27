@@ -1,3 +1,13 @@
 # IST Synthesize Dataset
 
-This is a test !
+This is the location of the IST synthesized image database. Some of the test images used in this evaluation study were extracted from the synthesized video sequences available in SIAT. Other test images were synthesized using the View Synthesis with Inverse Mapping (VSIM) algorithm, using the lateral viewpoints and the corresponding original frames  extracted from the original videos.
+
+The IST View Synthesis Image Quality Dataset introduces a novel view synthesis technique to obtain features that can be used in the design of a no-reference quality assessment metric. The lateral views contained in the SIAT database were used to synthesize novel intermediate views using View Synthesis with Inverse Mapping (VSIM) algorithm. These synthesized views, as well as some views synthesized by the VSRS-1D-Fast software were included in the subjective assessment.
+
+The synthesized images obtained by the two methods, VSRS-1D-Fast and VSIM, were evaluated by human observers during the test sessions. The images may contain compression artifacts, as well as rendering artifacts resulting from the synthesis process; each observer should give his opinion about the overall image quality.
+
+The assessment method used in the subjective test is the absolute category rating with hidden reference (ACR-HR). ACR-HR is a single-stimulus method, where only a single image is presented at a time. Without informing the subjects, the test procedure also includes an original version of each synthesized image, shown as any other test stimulus. A five-grade scale was used, indicating five quality levels: Excellent, Good, Fair, Poor and Bad. 
+
+Before the start of the subjective test, subjects filled their name and gender in a form, and were carefully introduced to the method of assessment, to the types of distortions and to the grading scale, in a training session. During the training session, several images (different from the test session), with different levels of distortion, were shown with the corresponding quality score. During the subjective test, the images were presented in a random order. The subjective test interface is the same as in the training session but without the image label.
+
+The experiment was conducted in two sessions. In the first session, the subjects assessed 197 images and in the second session, 182 images. The test session duration was approximately 25 minutes, for each session. In the first session, 25 subjects (24 males and 1 female) participated in the test, and in the second session, 18 subjects (15 males and 3 females). The subjects selected to participate in each session were essentially non-experts; more precisely, there were 17 subjects in the first session and 8 in the second session with no previous experience in image processing.
