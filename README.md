@@ -12,8 +12,10 @@ The experiment was conducted in two sessions. In the first session, the subjects
   
 # References
 
-[1]	M.S. Farid, M. Lucenteforte, M. Grangetto, “Depth image based rendering with inverse mapping”, IEEE Workshop on Multimedia Signal Processing, Pula, Italy, September 2013. 
+[1]	“VSRS-1D-Fast software”. [Online]. Available: https://hevc.hhi.fraunhofer.de/svn/svn_3DVCSoftware, [Accessed November 2018]. 
 
-[2]	“VSRS-1D-Fast”. [Online]. Available: https://hevc.hhi.fraunhofer.de/svn/svn_3DVCSoftware, [Accessed November 2017]. 
+[2]	M.S. Farid, M. Lucenteforte, M. Grangetto, “Depth image based rendering with inverse mapping”, IEEE Workshop on Multimedia Signal Processing, Pula, Italy, September 2013. 
 
-[3] X. Liu, Y. Zhang, S. Hu, S. Kwong, C.-C. J. Kuo and Q. Peng, “Subjective and objective video quality assessment of 3D synthesized views with texture/depth compression distortion,” IEEE Transactions on Image Processing, vol. 24, no. 12, pp. 4847 – 4861, December 2015.
+[3]	“VSIM software”. [Online]. Available: http://www.di.unito.it/~farid/Softwares/Research/VSIM.rar [Accessed November 2018].
+
+[4] X. Liu, Y. Zhang, S. Hu, S. Kwong, C.-C. J. Kuo and Q. Peng, “Subjective and objective video quality assessment of 3D synthesized views with texture/depth compression distortion,” IEEE Transactions on Image Processing, vol. 24, no. 12, pp. 4847 – 4861, December 2015.
