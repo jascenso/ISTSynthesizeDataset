@@ -9,7 +9,12 @@ The assessment method used in the subjective test is the absolute category ratin
 Before the start of the subjective test, subjects filled their name and gender in a form, and were carefully introduced to the method of assessment, to the types of distortions and to the grading scale, in a training session. During the training session, several images (different from the test session), with different levels of distortion, were shown with the corresponding quality score. During the subjective test, the images were presented in a random order. The subjective test interface is the same as in the training session but without the image label.
 
 The experiment was conducted in two sessions. In the first session, the subjects assessed 197 images and in the second session, 182 images. The test session duration was approximately 25 minutes, for each session. In the first session, 25 subjects (24 males and 1 female) participated in the test, and in the second session, 18 subjects (15 males and 3 females). The subjects selected to participate in each session were essentially non-experts; more precisely, there were 17 subjects in the first session and 8 in the second session with no previous experience in image processing.
-  
+
+# Reference
+If you use the ISTSynthesize Dataset in your research, we kindly ask that you reference this website and the following publication:
+
+F. Rodrigues, J. Ascenso, A. Rodrigues, M.P. Queluz, “Blind Quality Assessment of 3D Synthesized Views Based on Hybrid Feature Fusion”, IEEE Transactions on Multimedia (early access here: https://ieeexplore.ieee.org/document/8584098).
+
 # References
 
 [1]	“VSRS-1D-Fast software”. [Online]. Available: https://hevc.hhi.fraunhofer.de/svn/svn_3DVCSoftware, [Accessed November 2018]. 
