@@ -13,7 +13,7 @@ The experiment was conducted in two sessions. In the first session, the subjects
 # Citation
 The IST Image Synthesis dataset is to be used for non-commercial research and educational purposes. If using the dataset in any published work, please cite this website and its related publication.
 
-F. Rodrigues, J. Ascenso, A. Rodrigues, M.P. Queluz, “Blind Quality Assessment of 3D Synthesized Views Based on Hybrid Feature Fusion”, IEEE Transactions on Multimedia (early access here: https://ieeexplore.ieee.org/document/8584098).
+_F. Rodrigues, J. Ascenso, A. Rodrigues, M.P. Queluz, “Blind Quality Assessment of 3D Synthesized Views Based on Hybrid Feature Fusion”, IEEE Transactions on Multimedia (early access here: https://ieeexplore.ieee.org/document/8584098)._
 
 # Related Publications
 
