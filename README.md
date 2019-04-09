@@ -10,12 +10,12 @@ Before the start of the subjective test, subjects filled their name and gender i
 
 The experiment was conducted in two sessions. In the first session, the subjects assessed 197 images and in the second session, 182 images. The test session duration was approximately 25 minutes, for each session. In the first session, 25 subjects (24 males and 1 female) participated in the test, and in the second session, 18 subjects (15 males and 3 females). The subjects selected to participate in each session were essentially non-experts; more precisely, there were 17 subjects in the first session and 8 in the second session with no previous experience in image processing.
 
-# Reference
-If you use the ISTSynthesize Dataset in your research, we kindly ask that you reference this website and the following publication:
+# Citation
+The IST Image Synthesis dataset is to be used for non-commercial research and educational purposes. If using the dataset in any published work, please cite this website and its related publication.
 
 F. Rodrigues, J. Ascenso, A. Rodrigues, M.P. Queluz, “Blind Quality Assessment of 3D Synthesized Views Based on Hybrid Feature Fusion”, IEEE Transactions on Multimedia (early access here: https://ieeexplore.ieee.org/document/8584098).
 
-# References
+# Related Publications
 
 [1]	“VSRS-1D-Fast software”. [Online]. Available: https://hevc.hhi.fraunhofer.de/svn/svn_3DVCSoftware, [Accessed November 2018]. 
 
